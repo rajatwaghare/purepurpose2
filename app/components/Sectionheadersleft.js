@@ -9,14 +9,14 @@ function Sectionheadersleft() {
                 <div className="grid items-center md:grid-cols-2 gap-y-10 md:gap-x-20">
                     <div className="pr-12 sm:pr-0">
                         <div className="relative max-w-xs mb-12">
-                            <Image width='626' height='720' className="object-bottom rounded-md" src="/business-man.jpg" alt="" />
+                            <Image width='626' height='720' className="object-bottom rounded-md" src="/wastecollection.jpg" alt="" />
 
-                            <Image width='626' height='720' className="absolute origin-bottom-right scale-75 rounded-md -bottom-12 -right-12" src="/business-man.jpg" alt="" />
+                            <Image width='626' height='720' className="absolute origin-bottom-right scale-75 rounded-md -bottom-12 -right-12" src="/wastecollection-two.jpg" alt="" />
                         </div>
                     </div>
 
                     <div className=' text-center md:text-left ' >
-                        <h2 className="text-3xl font-bold leading-tight  text-[#33402E] sm:text-4xl lg:text-5xl">How we work ?</h2>
+                        <h2 className="text-3xl font-medium leading-tight  text-[#33402E] sm:text-4xl lg:text-5xl">How we work ?</h2>
                         <p className="mt-9 text-base leading-relaxed text-gray-600">Collecting waste packaging and used containers from their consumers and distribute them to recycling facilities and branches as per their requirements, as well as reselling the reusable glass bottles and containers.</p>
                         <p className="mt-4 text-base leading-relaxed text-gray-600">By partnering with such brands, we aim to create a circular economy within the beauty industry, promoting sustainable practices and reducing the overall environmental footprint. Moreover, raising awareness about the importance of proper waste management and inspire collective action towards a greener future.</p>
                     </div>

@@ -14,10 +14,10 @@ export default function Howitworks() {
         <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
             <div className="text-center ">
             <h1  className={`relative text-4xl text-[#6B8C61] ${autography.className}`}> How We Work? </h1>
-                <h2 className="text-3xl font-semibold max-w-lg m-auto  !leading-tight text-[#33402E] sm:text-3xl xl:text-5xl">Our process is simple yet impactful</h2>
+                <h2 className="text-3xl  font-medium max-w-lg m-auto  !leading-tight text-[#33402E] sm:text-3xl xl:text-5xl">Our process is simple yet impactful</h2>
             </div>
     
-            <div className="grid grid-cols-1 mt-20 text-center sm:mt-10 sm:grid-cols-2 sm:gap-x-10 gap-y-10 md:grid-cols-3 md:gap-0 xl:mt-10">
+            <div className="grid grid-cols-1 mt-20 gap-3 text-center sm:mt-10 sm:grid-cols-2 sm:gap-x-10 gap-y-10 md:grid-cols-3 xl:mt-10">
 
                 <div className="md:p-8 lg:p-14 bg-white py-10 px-8 rounded-2xl">
                     <svg className="mx-auto" width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">

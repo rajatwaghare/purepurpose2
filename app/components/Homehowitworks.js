@@ -15,7 +15,7 @@ function Homehowitworks() {
         <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
             <div className="text-center ">
             <h1  className={`relative text-4xl text-[#6B8C61] ${autography.className}`}> How We Work? </h1>
-                <h2 className="text-3xl font-semibold max-w-lg m-auto  !leading-tight text-[#33402E] sm:text-3xl xl:text-5xl">Our process is simple yet impactful</h2>
+                <h2 className="text-3xl font-medium max-w-lg m-auto  !leading-tight text-[#33402E] sm:text-3xl xl:text-5xl">Our process is simple yet impactful</h2>
             </div>
     
             <div className="grid grid-cols-1 mt-20 text-center sm:mt-10 sm:grid-cols-2 sm:gap-x-10 gap-y-10 md:grid-cols-4 md:gap-5 xl:mt-10">
