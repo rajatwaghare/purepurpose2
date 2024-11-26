@@ -8,6 +8,7 @@ import {
     SheetTitle,
     SheetTrigger,
 } from "@/components/ui/sheet"
+import Image from 'next/image';
 
 
 function Header() {
@@ -27,7 +28,7 @@ function Header() {
 
                             <div className=" text-center ">
                                 <a href="/" title="" className=" inline-block ">
-                                    <img className="w-auto h-20 lg:h-20" src="/Purepurposelogo_02.png" alt="" />
+                                    <Image width='400' height='220'  className="w-auto h-20 lg:h-20" src="/Purepurposelogo_02.png" alt="" />
                                 </a>
                             </div>
                             <div className=" flex justify-end lg:items-center lg:space-x-10">

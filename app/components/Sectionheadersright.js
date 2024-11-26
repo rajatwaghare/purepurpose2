@@ -27,13 +27,13 @@ function Sectionheadersright() {
                         <p className="mt-4  text-gray-600 text-xl font-light leading-relaxed ">While keeping this in mind I tried to look at the problems around me, faced by countless people. A problem I may be able to solve. And that is when this idea came into my mind. Having acne prone and sensitive skin since a young age, meant that I continuously tried on skincare products, which included a lot of trial and error.</p>
                     </div>
                     <div>
-                        <Image className="w-full mx-auto sm:max-w-xs rounded-3xl leading-relaxed" src="https://cdn.rareblocks.xyz/collection/celebration/images/team/2/business-man.jpg" alt=""></Image>
+                        <Image width='626' height='720' className="w-full mx-auto sm:max-w-xs rounded-3xl leading-relaxed" src="/business-man.jpg" alt=""></Image>
                     </div>
                 </div>
 
                 <div className="grid grid-cols-1 mt-8 md:mt-20 gap-y-6 md:grid-cols-2 gap-x-10 items-center text-center md:text-left">
                     <div>
-                        <img className="w-full mx-auto sm:max-w-xs rounded-3xl" src="https://cdn.rareblocks.xyz/collection/celebration/images/team/2/business-man.jpg" alt="" />
+                        <Image width='626' height='720' className="w-full mx-auto sm:max-w-xs rounded-3xl" src="/business-man.jpg" alt="" />
                     </div>
                     <div>
                         <p className="mt-4  text-gray-600 text-xl font-light leading-relaxed ">And this often lead to a significant amount of wastage in my household caused by the single use plastic packaging and the left-over containers. This accumulated waste would end up in landfills and only contribute to pollution, this is one of the primary reasons the skincare and beauty industry are known to be incredibly wasteful.</p>

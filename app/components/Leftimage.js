@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 
 function Leftimage() {
     return (
@@ -8,9 +9,9 @@ function Leftimage() {
 
                     <div className="relative pl-20 pr-6 sm:pl-6 md:px-0">
                         <div className="relative w-full max-w-xs mt-4 mb-10 ml-auto">
-                            <img className="ml-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/features/1/person.jpg" alt="" />
+                            <Image width='626' height='720' className="ml-auto" src="https://cdn.rareblocks.xyz/collection/celebration/images/features/1/person.jpg" alt="" />
 
-                            <img className="absolute -top-4 -left-12" src="https://cdn.rareblocks.xyz/collection/celebration/images/features/1/wavey-lines.svg" alt="" />
+                            <Image width='626' height='720' className="absolute -top-4 -left-12" src="https://cdn.rareblocks.xyz/collection/celebration/images/features/1/wavey-lines.svg" alt="" />
                         </div>
                     </div>
                     <div className="">

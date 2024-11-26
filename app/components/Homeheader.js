@@ -3,6 +3,7 @@
 import React from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import localFont from "next/font/local";
+import Image from 'next/image'
 
 import { Navigation } from 'swiper/modules';
 
@@ -39,9 +40,9 @@ function Homeheader() {
                     onSwiper={(swiper) => console.log(swiper)}
                 >
                     <SwiperSlide>
-                        <img src='https://indulgeoessentials.com/cdn/shop/files/Desktop_01_527744b0-b1e1-4bb1-9bdb-a5c1076236a4.jpg?v=1731141497' />
+                        <Image width='1520' height='590' src='/Desktop.jpg' alt='' />
                     </SwiperSlide>
-                    <SwiperSlide><img src='https://indulgeoessentials.com/cdn/shop/files/Desktop_02.jpg?v=1731141536' /></SwiperSlide>
+                    <SwiperSlide><Image width='1520' height='590' src='/Desktop_02.jpg' alt='' /></SwiperSlide>
                     ...
                 </Swiper>
             </section>

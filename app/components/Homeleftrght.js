@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 
 
 import localFont from "next/font/local";
@@ -21,13 +22,13 @@ function Homeleftrght() {
                             <p className="mt-4  text-gray-600 text-xl font-light leading-relaxed ">Note: Only fully empty, clean containers are eligible for recycling. No points will be rewarded for partially used or unclean items.</p>
                         </div>
                         <div className=' '>
-                            <img className="w-full mx-auto sm:max-w-xs rounded-3xl leading-relaxed" src="https://cdn.rareblocks.xyz/collection/celebration/images/team/2/business-man.jpg" alt="" />
+                            <Image width='626' height='720' className="w-full mx-auto sm:max-w-xs rounded-3xl leading-relaxed" src="/business-man.jpg" alt="" />
                         </div>
                     </div>
 
                     <div className="grid grid-cols-1 mt-8 md:mt-20 gap-y-6 md:grid-cols-2 gap-x-10 items-center text-center md:text-left">
                         <div className=' md:order-2 ' >
-                            <img className="w-full mx-auto sm:max-w-xs rounded-3xl" src="https://cdn.rareblocks.xyz/collection/celebration/images/team/2/business-man.jpg" alt="" />
+                            <Image width='626' height='720' className="w-full mx-auto sm:max-w-xs rounded-3xl" src="/business-man.jpg" alt="" />
                         </div>
                         <div>
                             <h2 className="text-3xl font-bold leading-tight  text-[#33402E] sm:text-4xl lg:text-5xl">What We Don't</h2>

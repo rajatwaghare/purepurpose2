@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 
 function Sectionheadersleft() {
   return (
@@ -8,9 +9,9 @@ function Sectionheadersleft() {
                 <div className="grid items-center md:grid-cols-2 gap-y-10 md:gap-x-20">
                     <div className="pr-12 sm:pr-0">
                         <div className="relative max-w-xs mb-12">
-                            <img className="object-bottom rounded-md" src="https://cdn.rareblocks.xyz/collection/celebration/images/team/2/business-man.jpg" alt="" />
+                            <Image width='626' height='720' className="object-bottom rounded-md" src="/business-man.jpg" alt="" />
 
-                            <img className="absolute origin-bottom-right scale-75 rounded-md -bottom-12 -right-12" src="https://cdn.rareblocks.xyz/collection/celebration/images/team/2/business-man.jpg" alt="" />
+                            <Image width='626' height='720' className="absolute origin-bottom-right scale-75 rounded-md -bottom-12 -right-12" src="/business-man.jpg" alt="" />
                         </div>
                     </div>
 
