@@ -9,6 +9,8 @@ import {
     SheetTrigger,
 } from "@/components/ui/sheet"
 import Image from 'next/image';
+import { Link } from 'lucide-react';
+
 
 
 function Header() {
@@ -27,12 +29,12 @@ function Header() {
                             </div>
 
                             <div className=" text-center ">
-                                <a href="/" title="" className=" inline-block ">
+                                <Link href="/" title="" className=" inline-block ">
                                     <Image width='400' height='220'  className="w-auto h-20 lg:h-20" src="/Purepurposelogo_02.png" alt="" />
-                                </a>
+                                </Link>
                             </div>
                             <div className=" flex justify-end lg:items-center lg:space-x-10">
-                                <a href="/about" title="" className="hidden md:inline-block text-base font-medium text-[#33402E]"> About </a>
+                                <Link href="/about" title="" className="hidden md:inline-block text-base font-medium text-[#33402E]"> About </Link>
                                 <a href="https://tally.so/r/3j0YvY" title="" className="hidden md:inline-block text-base font-medium text-[#33402E]"> Fill Form </a>
                                 <Sheet>
                                     <SheetTrigger className="inline-flex text-[#33402E] transition-all duration-200 rounded-md lg:hidden focus:bg-gray-100 hover:bg-gray-100">
