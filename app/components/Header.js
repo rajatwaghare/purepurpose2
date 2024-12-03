@@ -9,7 +9,7 @@ import {
     SheetTrigger,
 } from "@/components/ui/sheet"
 import Image from 'next/image';
-import { Link } from 'lucide-react';
+import Link from 'next/link';
 
 
 
@@ -29,8 +29,8 @@ function Header() {
                             </div>
 
                             <div className=" text-center ">
-                                <Link href="/" title="" className=" inline-block ">
-                                    <Image width='400' height='220'  className="w-auto h-20 lg:h-20" src="/Purepurposelogo_02.png" alt="" />
+                                <Link href="/" className=" inline-block ">
+                                    <Image width='400' height='220'  className="w-auto h-20 lg:h-20" src="/Purepurposelogo_02.png" alt=""></Image>
                                 </Link>
                             </div>
                             <div className=" flex justify-end lg:items-center lg:space-x-10">
