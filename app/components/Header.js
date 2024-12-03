@@ -22,7 +22,7 @@ function Header() {
 
 
                             <div className=" text-[#33402E]  lg:flex lg:items-center lg:space-x-10">
-                                <a href="/" title="" className="text-base  text-[#33402E] font-medium flex items-center gap-2"> <RiInstagramFill className=' text-4xl  md:text-2xl ' />
+                                <a href="https://www.instagram.com/pure_.purpose/" title="" className="text-base text-[#33402E] font-medium flex items-center gap-2"> <RiInstagramFill className=' text-4xl  md:text-2xl ' />
                                     <span className=' hidden md:inline-block' >Social</span></a>
                             </div>
 
