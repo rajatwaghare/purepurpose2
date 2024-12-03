@@ -69,5 +69,5 @@ body {
     background: #EFF4ED;
 }
 
-.swiper-button-prev, .swiper-button-next {cursor: pointer; background: #fff; width:40px !important;height: 30px !important; border-radius: 50%;font-size: 12px; color: #000;}
+.swiper-button-prev, .swiper-button-next {cursor: pointer; background: #fff; width:40px !important;height:40px !important; border-radius: 50%;font-size: 12px; color: #000;}
 .swiper-button-next:after, .swiper-button-prev:after {color: #000;line-height: normal; font-size: 12px !important; }

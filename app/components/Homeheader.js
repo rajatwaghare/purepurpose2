@@ -40,9 +40,9 @@ function Homeheader() {
                     onSwiper={(swiper) => console.log(swiper)}
                 >
                     <SwiperSlide>
-                        <Image width='1520' height='590' src='/Desktop.jpg' alt='' />
+                        <Image className=' w-full ' width='1520' height='590' src='/Desktop.jpg' alt='' />
                     </SwiperSlide>
-                    <SwiperSlide><Image width='1520' height='590' src='/Desktop_02.jpg' alt='' /></SwiperSlide>
+                    <SwiperSlide><Image className=' w-full ' width='1520' height='590' src='/Desktop_02.jpg' alt='' /></SwiperSlide>
                     ...
                 </Swiper>
             </section>
