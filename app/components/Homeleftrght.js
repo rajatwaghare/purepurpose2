@@ -22,13 +22,13 @@ function Homeleftrght() {
                             <p className="mt-4 text-lg leading-relaxed text-gray-600">Note: Only fully empty, clean containers are eligible for recycling. No points will be rewarded for partially used or unclean items.</p>
                         </div>
                         <div className=' '>
-                            <Image width='626' height='720' className="w-full mx-auto sm:max-w-xs rounded-3xl leading-relaxed" src="/wastecollection.jpg" alt="" />
+                            <Image width='626' height='720' className="w-full mx-auto sm:max-w-xs rounded-3xl leading-relaxed" src="/what-we-accept.jpg" alt="" />
                         </div>
                     </div>
 
                     <div className="grid grid-cols-1 mt-8 md:mt-20 gap-y-6 md:grid-cols-2 gap-x-10 items-center text-center md:text-left">
                         <div className=' md:order-2 ' >
-                            <Image width='626' height='720' className="w-full mx-auto sm:max-w-xs rounded-3xl" src="/wastecollection-two.jpg" alt="" />
+                            <Image width='626' height='720' className="w-full mx-auto sm:max-w-xs rounded-3xl" src="/what-we-dont.jpg" alt="" />
                         </div>
                         <div>
                             <h2 className="text-3xl  font-medium leading-tight  text-[#33402E] sm:text-4xl lg:text-5xl">What We Don't</h2>

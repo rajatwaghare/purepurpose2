@@ -9,9 +9,9 @@ function Sectionheadersleft() {
                 <div className="grid items-center md:grid-cols-2 gap-y-10 md:gap-x-20">
                     <div className="pr-12 sm:pr-0">
                         <div className="relative max-w-xs mb-12">
-                            <Image width='626' height='720' className="object-bottom rounded-md" src="/wastecollection.jpg" alt="" />
+                            <Image width='626' height='720' className="object-bottom rounded-md" src="/how-we-work-1.jpg" alt="" />
 
-                            <Image width='626' height='720' className="absolute origin-bottom-right scale-75 rounded-md -bottom-12 -right-12" src="/wastecollection-two.jpg" alt="" />
+                            <Image width='626' height='720' className="absolute origin-bottom-right scale-75 rounded-md -bottom-12 -right-12" src="/how-we-work-2.jpg" alt="" />
                         </div>
                     </div>
 
