@@ -6,6 +6,13 @@ import Testheader from '../components/Testheader'
 import Sectionheadersleft from '../components/Sectionheadersleft'
 import Founderbio from '../components/Founderbio'
 
+
+
+export const metadata = {
+  title: 'About: Pure Purpose',
+  description: 'Collecting waste packaging and used containers from their consumers and distributing them to recycling facilities and branches as per their requirements, as well as reselling the reusable glass bottles and containers.',
+}
+
 function page() {
   return (
     <>

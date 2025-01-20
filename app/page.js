@@ -11,6 +11,11 @@ const autography = localFont({
   weight: "400",
 });
 
+export const metadata = {
+  title: 'Welcome to Pure Purpose',
+  description: 'The motive behind this entire business revolves around the accumulation of waste created by the beauty and skincare industry. Hence, my business would collaborate with beauty centric businesses and brands.',
+}
+
 
 export default function Home() {
   return (
