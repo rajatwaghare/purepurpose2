@@ -44,10 +44,10 @@ function Header() {
                                     </SheetTrigger>
                                     <SheetContent className="bg-[#EFF4ED] w-[80%]">
                                         <ul className=' grid gap-10 pt-40'>
-                                            <li><a href="/about" className=" text-5xl font-light text-[#33402E]"> Home </a></li>
+                                            <li><a href="/" className=" text-5xl font-light text-[#33402E]"> Home </a></li>
                                             <li><a href="/about" className=" text-5xl font-light text-[#33402E]"> About </a></li>
-                                            <li><a href="#" className="text-5xl font-light text-[#33402E]"> Fill Form </a></li>
-                                            <li><a href="#" className="text-5xl font-light text-[#33402E]"> Social </a></li>
+                                            <li><a href="https://tally.so/r/3j0YvY" className="text-5xl font-light text-[#33402E]"> Fill Form </a></li>
+                                            <li><a href="https://www.instagram.com/pure_.purpose/" className="text-5xl font-light text-[#33402E]"> Social </a></li>
                                         </ul>
                                     </SheetContent>
                                 </Sheet>

@@ -18,8 +18,8 @@ function Homeleftrght() {
                     <div className="grid grid-cols-1 mt-8 md:mt-20 gap-y-6 md:grid-cols-2 gap-x-10 text-center md:text-left items-center ">
                         <div className=' order-2' >
                             <h2 className="text-3xl font-medium leading-tight  text-[#33402E] sm:text-4xl lg:text-5xl">What we Accept</h2>
-                            <p className="mt-4 text-lg leading-relaxed text-gray-600">We’re excited to help you recycle! Please bring us your Indulgeo Essentials beauty empties, including items made from plastic, glass, aluminum, and rubber parts used in our products.</p>
-                            <p className="mt-4 text-lg leading-relaxed text-gray-600">Note: Only fully empty, clean containers are eligible for recycling. No points will be rewarded for partially used or unclean items.</p>
+                            <p className="mt-4 text-lg leading-relaxed text-gray-600">We are thrilled to help you in your recycling journey! All you have to do is courier us the empties of our affiliated brands, including items made up of plastic, glass, aluminum, rubber parts, as well as other materials included in the product empties.</p>
+                            <p className="mt-4 text-lg leading-relaxed text-gray-600">The bottles you send us should be completely empty, washed and dried out before it is received, as it would hinder our recycling process.</p>
                         </div>
                         <div className=' '>
                             <Image width='626' height='720' className="w-full mx-auto sm:max-w-xs rounded-3xl leading-relaxed" src="/what-we-accept.jpg" alt="" />

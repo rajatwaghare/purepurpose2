@@ -4,10 +4,12 @@ import Sectionheaders from '../components/Sectionheaders'
 import Sectionheadersright from '../components/Sectionheadersright'
 import Testheader from '../components/Testheader'
 import Sectionheadersleft from '../components/Sectionheadersleft'
+import Founderbio from '../components/Founderbio'
 
 function page() {
   return (
     <>
+        <Founderbio></Founderbio>
         <Sectionheaders></Sectionheaders>
         <Sectionheadersleft></Sectionheadersleft>
         <Sectionheadersright></Sectionheadersright>
