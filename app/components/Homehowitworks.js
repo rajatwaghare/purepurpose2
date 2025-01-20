@@ -29,7 +29,7 @@ function Homehowitworks() {
                 <div className="md:p-8 lg:p-14 bg-white py-10 px-8 rounded-2xl">
                     <Image className=' max-w-20 m-auto ' width='80' height='80' src='/step2.png' alt=''></Image>
                     <h3 className="mt-12 text-xl font-bold  text-[#33402E] font-pj">STEP TWO</h3>
-                    <p className="mt-1 text-base text-gray-600 font-pj">Fill form: <a className=' text-green-800 font-semibold ' href='https://tally.so/r/3j0YvY'>CLIK HERE</a></p>
+                    <p className="mt-1 text-base text-gray-600 font-pj">Fill form: <a className=' text-green-800 font-semibold ' href='https://tally.so/r/3j0YvY'>CLICK HERE</a></p>
                 </div>
     
                 <div className="md:p-8 lg:p-14 bg-white py-10 px-8 rounded-2xl">
